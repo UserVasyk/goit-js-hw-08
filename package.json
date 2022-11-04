@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "parcel template_src/index.html",
-    "build": "parcel build template_src/index.html --public-url /goit-js-hw-08/"
+    "build": "parcel build template_src/index.html --public-url /goit-js-hw-08/template_src/"
   },
   "repository": {
     "type": "git",
