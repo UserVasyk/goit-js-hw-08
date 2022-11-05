@@ -18,7 +18,9 @@
   },
   "homepage": "https://uservasyk.github.io/goit-js-hw-08/",
   "devDependencies": {
-    "parcel": "^2.7.0"
+    "parcel": "^2.7.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
