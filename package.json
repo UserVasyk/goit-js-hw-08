@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "parcel template_src/index.html",
-    "build": "parcel build template_src/index.html --public-url /goit-js-hw-08/template_src/"
+    "start": "parcel template_src/*.html",
+    "build": "parcel build template_src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
